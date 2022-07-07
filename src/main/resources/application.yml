@@ -1,0 +1,8 @@
+spring:
+
+  application:
+    name: "Spring DataRest com Groove"
+
+  servlet:
+    multipart:
+      max-file-size: 10
