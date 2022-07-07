@@ -1,7 +1,7 @@
 spring:
 
   application:
-    name: "Spring DataRest com Groove"
+    name: "Spring MongoDB FileService"
 
   servlet:
     multipart:
